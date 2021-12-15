@@ -4,8 +4,8 @@ Estimating the Yoga Pose performed in a real-world, real-time setting
 
 ## Poses Detected
 
--Malasana
--Ananda Balasana
+- Malasana
+- Ananda Balasana
 -Janu Sirsasana
 -Anjaneyasana
 -Tadasana
